@@ -1,0 +1,38 @@
+body {
+	background-color: #e9ffdb;
+	font-family: serif;
+}
+.intro{
+	font-size: 20px;
+}
+h1 {
+	background-color: #b0c4de;
+	color:#f5fffa ;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 50px;
+	padding: 25px;
+}
+h2{
+	text-align: center;
+	color: #b0c4de;
+	font-size: 30px;
+}
+
+div {
+	background-color:#9bc4e2 ;
+	font-size: 25px;
+	height: 250px;
+	color: mintcream;  /* Set text color to mintcream */
+	padding-top: 50px;
+	padding-right: 30px;
+	padding-bottom: 50px;
+	padding-left: 30px;
+}
+
+#clossing {
+	text-align: center;
+	border-style: ridge;
+	font-size: 20px;
+}
